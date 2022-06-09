@@ -1,8 +1,8 @@
-public class Retangle {
+public class Rectangle2 {
     private double height;
     private double width;
     private double area;
-    public Retangle(double h, double w) {
+    public Rectangle2(double h, double w) {
         height = h;
         width = w;
         calcArea();
