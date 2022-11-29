@@ -57,7 +57,7 @@ public class GridLayoutEx extends JFrame {
         make(b11, 3, 3, 1, 1);
         make(b0, 0, 4, 2, 1); // 아래의 make함수를 지정
         make(b10, 2, 4, 1, 1);
-        make(b18, 3, 4, 1, 1);
+        make(b18,                                                                                                                                                     3, 4, 1, 1);
         add(p2);
         add(p1);
         p1.add(t1);
